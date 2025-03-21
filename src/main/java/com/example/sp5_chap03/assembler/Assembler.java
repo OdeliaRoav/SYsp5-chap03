@@ -20,7 +20,7 @@ public class Assembler {
         return memberDao;
     }
 
-    public MemberRegisterService getRegisterService() {
+    public MemberRegisterService getMemberRegisterService() {
         return regSvc;
     }
 
