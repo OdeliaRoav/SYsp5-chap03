@@ -10,6 +10,4 @@ class Sp5Chap03ApplicationTests {
 	void contextLoads() {
 	}
 
-
-
 }
